@@ -1,5 +1,12 @@
 # barutanseizin
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/barutanseizin/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/barutanseizin/actions)
+![License](https://img.shields.io/github/license/yksanjo/barutanseizin)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/barutanseizin)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/barutanseizin)
+
 ## Detailed Description
 
 barutanseizin is maintained as an industry-grade software project with production-ready engineering practices.  
